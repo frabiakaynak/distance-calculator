@@ -31,4 +31,3 @@ Bu proje öğrenme amaçlı geliştirilmiştir ve geliştirilmeye açıktır.
 
 
 
-./distance-calculator.png
