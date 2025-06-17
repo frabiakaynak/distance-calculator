@@ -19,5 +19,20 @@ Bu basit web uygulaması, girilen iki farklı konumun (enlem ve boylam) birbirin
 - Hesaplanan Mesafe: ~8000 km
 
 
+## 📷 Ekran Görüntüsü
+
+![Demo Screenshot](./distance-calculator.png)
+
+## 🌐 Canlı Demo
+
+[https://frabiakaynak.github.io/distance-calculator/](https://frabiakaynak.github.io/distance-calculator/)
+
+---
+
+
 ## 📌 Not
 Bu proje öğrenme amaçlı geliştirilmiştir ve geliştirilmeye açıktır.
+
+
+
+./distance-calculator.png
