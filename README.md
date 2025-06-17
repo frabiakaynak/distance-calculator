@@ -19,8 +19,5 @@ Bu basit web uygulaması, girilen iki farklı konumun (enlem ve boylam) birbirin
 - Hesaplanan Mesafe: ~8000 km
 
 
-## 🌐 Canlı Demo
-
-
 ## 📌 Not
 Bu proje öğrenme amaçlı geliştirilmiştir ve geliştirilmeye açıktır.
