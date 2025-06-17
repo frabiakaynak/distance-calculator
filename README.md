@@ -15,7 +15,7 @@ Bu basit web uygulaması, girilen iki farklı konumun (enlem ve boylam) birbirin
 
 
 ## 📷 Ekran Görüntüsü
-Burada Türkiye'nin iki şehrinin ( İzmir ve Diyarbakır) enlem ve boylamları girilerek aradaki mesafe hesapalnmıştır.
+Burada Türkiye'nin iki şehrinin ( İzmir ve Diyarbakır) enlem ve boylamları girilerek aradaki mesafe hesaplanmıştır.
 
 ![Demo Screenshot](./distance-calculator.png)
 
