@@ -13,13 +13,9 @@ Bu basit web uygulaması, girilen iki farklı konumun (enlem ve boylam) birbirin
 - CSS
 - JavaScript (Haversine Formülü)
 
-## 🔍 Örnek Kullanım
-- Konum 1: 41.0082, 28.9784 (İstanbul)
-- Konum 2: 40.7128, -74.0060 (New York)
-- Hesaplanan Mesafe: ~8000 km
-
 
 ## 📷 Ekran Görüntüsü
+Burada Türkiye'nin iki şehrinin ( İzmir ve Diyarbakır) enlem ve boylamları girilerek aradaki mesafe hesapalnmıştır.
 
 ![Demo Screenshot](./distance-calculator.png)
 
